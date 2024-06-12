@@ -5,7 +5,7 @@ Python scripts and datasets for analyzing Iowa's Food-Energy-Water nexus at the 
 
 This repository presents the Python scripts and datasets used in the county-level analysis and visual assessment of Iowa's Food-Energy-Water Systems (IFEWs). The study focuses on understanding the interdependencies of agricultural practices, nitrogen management, and energy production in Iowa. Leveraging data from the USDA National Agricultural Statistics Service and other sources, we assess cropland nitrogen sources, animal-based nitrogen contributions, and ethanol production capacity across Iowa's counties. Our methodology involves geoprocessing and interpolation tools to address data availability challenges and refine nitrogen surplus (Ns) estimates. The results reveal spatial-temporal dynamics of cropland nitrogen, quantify non-point nitrogen sources at the county level, and evaluate the impact of energy systems on the IFEWs balance. We discuss the implications of our findings for sustainable agriculture, environmental management, and energy production in Iowa.
 
-## Introduction
+## Background Introduction
 
 Iowa plays a pivotal role in American agriculture, with significant implications for both agricultural production and environmental management. However, the state's predominant agricultural practices, particularly nitrogen management, pose challenges to environmental sustainability, particularly regarding water quality.
 
