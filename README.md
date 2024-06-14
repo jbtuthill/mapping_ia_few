@@ -15,8 +15,9 @@ Building on previous research, our study aims to address these gaps by conductin
 
 ## Repository Contents
 
-- `scripts/`: Contains Python scripts for data analysis and visualization.
+- `scripts/`: Contains Python scripts for data analysis.
 - `datasets/`: Includes shared datasets used in the analysis.
+- `visualizations/`: Contains Python scripts for visualization of data.
 - `README.md`: Provides an overview of the repository and instructions for replicating the analysis.
 
 ## Citation
