@@ -39,7 +39,7 @@ This folder contains data from another researcher, which is not included in the 
 
 **Note:** This folder is not available here. For access to data use the above link.
 
-### 4. `IFEWs.geojson`
+### 4. IFEWs.zip > `IFEWs.geojson`
 This file contains the final integrated dataset with nitrogen surplus calculations and other related data. The CRS (Coordinate Reference System) information for this file is as follows:
 
 **CRS Info:**
@@ -60,7 +60,7 @@ This file contains the final integrated dataset with nitrogen surplus calculatio
 ### 5. CornRates
 This folder contains the data and results from processing Corn Rates. The subfolders CDL_tifs and GJSON are included in the .gitignore file due to their size and the external availability of the source data.
 
-### 6. `manure.geojson`
+### 6. manure.zip >`manure.geojson`
 This file contains the county scale manure dataset from Bian et al. (https://doi.pangaea.de/10.1594/PANGAEA.919937)
 
 ### 7. MinimizeSSE_resultsforplot.csv
