@@ -51,7 +51,7 @@ def calculate_fix_n(row):
     soybeans_acres = row['soy_pa']
     corn_acres = row['corng_pa']
     
-    fix_n = ((soybeans_yield / 15) * 81.1 - 98.5) * (soybeans_acres / (soybeans_acres + corn_acres))
+    fix_n = ((soybeans_yield / 15) * 81.1 - 98.5) * (soybeans_acres / (soybeans_acres + corn_acres)) #soybeans_yield / 15 because the FN equation provided by Barry et al. (1993) gives FN in tons/ha. Hence, for soybeans 1bu/ac = 0.06725tons/ha = 1/15
     
     return round(fix_n, 1)
 
