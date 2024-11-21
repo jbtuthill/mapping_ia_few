@@ -23,5 +23,5 @@ Building on previous research, our study aims to address these gaps by conductin
 ## Citation
 
 If you use the data or code from this repository in your research, please cite our paper: 
-Brittes Tuthill, J.; Kaleita, A. Mapping the Nexus: A County-Level Analysis and Visualization of Iowa’s Food–Energy–Water Systems. Sustainability 2024, 16, 5591. https://doi.org/10.3390/su16135591
+> Brittes Tuthill, J.; Kaleita, A. Mapping the Nexus: A County-Level Analysis and Visualization of Iowa’s Food–Energy–Water Systems. Sustainability 2024, 16, 5591. https://doi.org/10.3390/su16135591
 
